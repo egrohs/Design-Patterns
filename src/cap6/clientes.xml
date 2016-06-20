@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientes>
+	<cliente>
+		<cpf>123456789100</cpf>
+		<nome>Huguinho</nome>
+		<data-de-nascimento>13031964</data-de-nascimento>
+	</cliente>
+	<cliente>
+		<cpf>123456789101</cpf>
+		<nome>Zezinho</nome>
+		<data-de-nascimento>14041965</data-de-nascimento>
+	</cliente>
+	<cliente>
+		<cpf>123456789102</cpf>
+		<nome>Luizinho</nome>
+		<data-de-nascimento>15051966</data-de-nascimento>
+	</cliente>
+</clientes>

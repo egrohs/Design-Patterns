@@ -1,0 +1,288 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head>
+<title>File:FactoryMethod.svg - Wikipedia, the free encyclopedia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.16alpha-wmf" />
+<link rel="stylesheet" type="text/css" href="/w/extensions/UsabilityInitiative/css/combined.min.css?16" />
+<link rel="stylesheet" type="text/css" href="/w/extensions/UsabilityInitiative/css/vector/jquery-ui-1.7.2.css?1.7.2" />
+<link rel="apple-touch-icon" href="http://en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/rss+xml" title="Wikipedia RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="/skins-1.5/common/shared.css?257z2" type="text/css" media="screen" />
+<link rel="stylesheet" href="/skins-1.5/common/commonPrint.css?257z2" type="text/css" media="print" />
+<link rel="stylesheet" href="/skins-1.5/monobook/main.css?257z2" type="text/css" media="screen" />
+<link rel="stylesheet" href="/skins-1.5/chick/main.css?257z2" type="text/css" media="handheld" />
+<!--[if lt IE 5.5000]><link rel="stylesheet" href="/skins-1.5/monobook/IE50Fixes.css?257z2" type="text/css" media="screen" /><![endif]-->
+<!--[if IE 5.5000]><link rel="stylesheet" href="/skins-1.5/monobook/IE55Fixes.css?257z2" type="text/css" media="screen" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/skins-1.5/monobook/IE60Fixes.css?257z2" type="text/css" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/skins-1.5/monobook/IE70Fixes.css?257z2" type="text/css" media="screen" /><![endif]-->
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Common.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Print.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="print" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Handheld.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="handheld" />
+<link rel="stylesheet" href="/w/index.php?title=MediaWiki:Monobook.css&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400&amp;action=raw&amp;maxage=2678400" type="text/css" media="all" />
+<link rel="stylesheet" href="/w/index.php?title=-&amp;action=raw&amp;maxage=2678400&amp;gen=css" type="text/css" media="all" />
+<script type="text/javascript">
+var skin="monobook",
+stylepath="/skins-1.5",
+wgArticlePath="/wiki/$1",
+wgScriptPath="/w",
+wgScriptExtension=".php",
+wgScript="/w/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://en.wikipedia.org",
+wgCanonicalNamespace="File",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=6,
+wgPageName="File:FactoryMethod.svg",
+wgTitle="FactoryMethod.svg",
+wgAction="view",
+wgArticleId=0,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=0,
+wgVersion="1.16alpha-wmf",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "Wikipedia", "5": "Wikipedia talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk", "100": "Portal", "101": "Portal talk", "108": "Book", "109": "Book talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "wikipedia": 4, "wikipedia_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "portal": 100, "portal_talk": 101, "book": 108, "book_talk": 109, "wp": 4, "wt": 5, "image": 6, "image_talk": 7},
+wgMWSuggestTemplate="http://en.wikipedia.org/w/api.php?action=opensearch\x26search={searchTerms}\x26namespace={namespaces}\x26suggest",
+wgDBname="enwiki",
+wgSearchNamespaces=[0],
+wgMWSuggestMessages=["with suggestions", "no suggestions"],
+wgRestrictionEdit=[],
+wgRestrictionMove=[],
+wgTrackingToken="8704a048d4d059d64dddcce9073c08be",
+wgClickTrackingIsThrottled=true,
+wgNotice="",
+wgNoticeLocal="";
+</script>
+<script src="/skins-1.5/common/wikibits.js?urid=257z2_1254880607" type="text/javascript"></script>
+<script src="/skins-1.5/common/ajax.js?urid=257z2" type="text/javascript"></script>
+<script src="/skins-1.5/common/mwsuggest.js?urid=257z2" type="text/javascript"></script>
+<script type="text/javascript" src="/w/extensions/UsabilityInitiative/js/js2.combined.min.js?8"></script>
+<script type="text/javascript" src="/w/extensions/UsabilityInitiative/js/plugins.combined.min.js?68"></script>
+<script type="text/javascript" src="/w/extensions/UsabilityInitiative/CollapsibleTabs/CollapsibleTabs.js?9"></script>
+<script type="text/javascript" src="/w/extensions/UsabilityInitiative/ClickTracking/ClickTracking.js?4"></script>
+<script type="text/javascript" src="http://upload.wikimedia.org/centralnotice/wikipedia/en/centralnotice.js?257z2"></script>
+
+<!--[if lt IE 7]><script type="text/javascript" src="/skins-1.5/common/IEFixes.js?257z2"></script>
+	<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+<script src="/w/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=monobook&amp;urid=257z2_331066825" type="text/javascript"></script>
+
+</head>
+<body class="mediawiki ltr ns-6 ns-subject page-File_FactoryMethod_svg skin-monobook">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a id="top"></a>
+		<div id="siteNotice"><script type='text/javascript'>if (wgNotice != '') document.writeln(wgNotice);</script></div>		<h1 id="firstHeading" class="firstHeading">File:FactoryMethod.svg</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From Wikipedia, the free encyclopedia</h3>
+			<div id="contentSub"></div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<ul id="filetoc">
+			<li><a href="#file">File</a></li>
+			<li><a href="#filehistory">File history</a></li>
+			<li><a href="#filelinks">File links</a></li>
+
+			</ul>
+<div class="fullImageLink" id="file"><a href="http://upload.wikimedia.org/wikipedia/commons/a/a3/FactoryMethod.svg"><img alt="File:FactoryMethod.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/FactoryMethod.svg/349px-FactoryMethod.svg.png" width="349" height="206" /></a><br /></div>
+<div class="fullMedia">
+<p><a href="http://upload.wikimedia.org/wikipedia/commons/a/a3/FactoryMethod.svg" class="internal" title="FactoryMethod.svg">FactoryMethod.svg</a>‎
+<span class="fileInfo">(SVG file, nominally 349 × 206 pixels, file size: 8 KB)</span>
+</p>
+</div>
+<div class="sharedUploadNotice">
+<table id="mw-sharedupload" class="plainlinks fmbox fmbox-system" style="">
+<tr>
+<td class="mbox-image">
+  <a href="/wiki/File:Commons-logo.svg" class="image" title="Wikimedia Commons logo"><img alt="Wikimedia Commons logo" src="http://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></a></td>
+<td class="mbox-text" style="font-size: 90%; text-align: center;"> <div>
+<p><big>This is a file from the <a href="http://commons.wikimedia.org/wiki/Main_Page" class="extiw" title="commons:Main Page">Wikimedia Commons</a>. The description on its <b><a href="http://commons.wikimedia.org/wiki/File:FactoryMethod.svg" class="extiw" title="commons:File:FactoryMethod.svg">description page there</a></b> is shown below.</big> <br/> Commons is a freely licensed media file repository. <a href="http://commons.wikimedia.org/wiki/Commons:Welcome" class="extiw" title="commons:Commons:Welcome">You can help</a>.
+</p>
+</div> </td>
+</tr>
+</table>
+<div class="metadata topicon" id="commons-icon" style="display:none; right:30px;"><a href="http://commons.wikimedia.org/wiki/File:FactoryMethod.svg" title="This is a file from the Wikimedia Commons"><img alt="This is a file from the Wikimedia Commons" src="http://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/14px-Commons-logo.svg.png" width="14" height="19" /></a></div>
+</div>
+<div id="shared-image-desc"><table summary="A standardized table providing complete information about the file, including description of what it shows and how it was made, copyright status and source." class="toccolours vevent" style="width: 100%; direction: ltr;" cellpadding="2">
+<tr>
+<th style="background: #ccf; text-align: right; vertical-align: top; padding-right: 0.4em; width: 15%" id="fileinfotpl_desc">Description</th>
+<td><span class="summary" style="display:none">FactoryMethod.svg</span>
+<p>UML class diagram for the factory method pattern</p>
+</td>
+</tr>
+<tr valign="top">
+<th style="background: #ccf; text-align: right; padding-right: 0.4em; white-space: nowrap" id="fileinfotpl_date">Date</th>
+<td>
+<p>6 April 2007<span style="display:none">(<span class="dtstart">2007-04-06</span>)</span></p>
+</td>
+</tr>
+<tr valign="top">
+<th style="background: #ccf; text-align: right; padding-right: 0.4em" id="fileinfotpl_src">Source</th>
+<td>
+<p><a href="http://en.wikipedia.org/wiki/Image:FactoryMethod.png" class="extiw" title="en:Image:FactoryMethod.png">en:Image:FactoryMethod.png</a></p>
+</td>
+</tr>
+<tr valign="top">
+<th style="background: #ccf; text-align: right; padding-right: 0.4em" id="fileinfotpl_aut">Author</th>
+<td>
+<p>Traced by <a href="http://commons.wikimedia.org/wiki/User:Stannered" title="User:Stannered">User:Stannered</a></p>
+</td>
+</tr>
+<tr valign="top">
+<th style="background: #ccf; text-align: right; padding-right: 0.4em" id="fileinfotpl_perm">Permission<br />
+<small>(<a href="http://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia" title="Commons:Reusing content outside Wikimedia">Reusing this image</a>)</small></th>
+<td>NRR original</td>
+</tr>
+<tr valign="top">
+<td style="background: #ccf; text-align: right; padding-right: 0.4em; font-weight: bold" id="fileinfotpl_ver">Other versions</td>
+<td><a href="http://en.wikipedia.org/wiki/Image:FactoryMethod.png" class="extiw" title="en:Image:FactoryMethod.png">en:Image:FactoryMethod.png</a></td>
+</tr>
+</table>
+<p><br /></p>
+<table cellspacing="8" cellpadding="0" style="width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; direction: ltr;" class="layouttemplate">
+<tr>
+<td><img alt="PD-icon.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/64px-PD-icon.svg.png" width="64" height="64" /></td>
+<td><span lang="en" class="description en" xml:lang="en"><i>This image has been (or is hereby) released into the <b><a href="http://en.wikipedia.org/wiki/public_domain" class="extiw" title="w:public domain">public domain</a></b> by its author, <a href="http://en.wikipedia.org/wiki/User:LazyEditor" class="extiw" title="en:User:LazyEditor">LazyEditor</a> at the <a href="http://en.wikipedia.org/wiki/Main_Page" class="extiw" title="en:Main Page">English Wikipedia</a> project. This applies worldwide.</i><br /></span>
+<p><span lang="en" class="description en" xml:lang="en"><small>In case this is not legally possible:</small><br />
+<i><a href="http://en.wikipedia.org/wiki/User:LazyEditor" class="extiw" title="en:User:LazyEditor">LazyEditor</a> grants anyone the right to use this work <b>for any purpose</b>, without any conditions, unless such conditions are required by law.</i></span></p>
+<hr />
+<p><span style="font-size:x-small;line-height:140%" class="plainlinks"><a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/ar" class="external text" rel="nofollow">العربية</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/ca" class="external text" rel="nofollow">Català</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/cs" class="external text" rel="nofollow">Česky</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/da" class="external text" rel="nofollow">Dansk</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/de" class="external text" rel="nofollow">Deutsch</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/el" class="external text" rel="nofollow">Ελληνικά</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/en" class="external text" rel="nofollow">English</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/es" class="external text" rel="nofollow">Español</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/et" class="external text" rel="nofollow">Eesti</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/fi" class="external text" rel="nofollow">Suomi</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/fr" class="external text" rel="nofollow">Français</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/he" class="external text" rel="nofollow">עברית</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/it" class="external text" rel="nofollow">Italiano</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/ko" class="external text" rel="nofollow">한국어</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/lt" class="external text" rel="nofollow">Lietuvių</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/mk" class="external text" rel="nofollow">Македонски</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/nds" class="external text" rel="nofollow">Plattdüütsch</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/nl" class="external text" rel="nofollow">Nederlands</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/pl" class="external text" rel="nofollow">Polski</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/ro" class="external text" rel="nofollow">Română</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/ru" class="external text" rel="nofollow">Русский</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/sr" class="external text" rel="nofollow">Српски / Srpski</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/sv" class="external text" rel="nofollow">Svenska</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/th" class="external text" rel="nofollow">ไทย</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/vec" class="external text" rel="nofollow">Vèneto</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/zh" class="external text" rel="nofollow">中文</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/zh-hans" class="external text" rel="nofollow">‪中文(简体)‬</a>&#160;| <a href="http://commons.wikimedia.org/wiki/Template:PD-user-w/zh-hant" class="external text" rel="nofollow">‪中文(繁體)‬</a>&#160;| <small class="plainlinks"><a href="http://commons.wikimedia.org/w/index.php?title=Template:PD-user-w/lang&amp;action=edit" class="external text" rel="nofollow">+/−</a></small></span></p>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 924/1000000
+Post-expand include size: 23846/2048000 bytes
+Template argument size: 2839/2048000 bytes
+Expensive parser function count: 2/500
+-->
+
+<!-- Saved in parser cache with key commonswiki:pcache:idhash:1899084-1!1!0!default!!en!2 and timestamp 20091227163537 -->
+</div>
+<h2 id="filehistory">File history</h2>
+<div id="mw-imagepage-section-filehistory">
+<p>Click on a date/time to view the file as it appeared at that time.
+</p>
+<table class="wikitable filehistory">
+<tr><td></td><th>Date/Time</th><th>Thumbnail</th><th>Dimensions</th><th>User</th><th>Comment</th></tr>
+<tr><td>current</td><td class='filehistory-selected' style='white-space: nowrap;'><a href="http://upload.wikimedia.org/wikipedia/commons/a/a3/FactoryMethod.svg">10:58, 6 April 2007</a></td><td><a href="http://upload.wikimedia.org/wikipedia/commons/a/a3/FactoryMethod.svg"><img alt="Thumbnail for version as of 10:58, 6 April 2007" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/FactoryMethod.svg/120px-FactoryMethod.svg.png" width="120" height="71" /></a></td><td>349×206 <span style='white-space: nowrap;'>(8 KB)</span></td><td>Stannered</td><td> <span class="comment">({{Information |Description=UML class diagram for the factory method pattern |Source=<a href="/wiki/File:FactoryMethod.png" title="File:FactoryMethod.png">en:Image:FactoryMethod.png</a> |Date=2007-04-06 |Author=Traced by <a href="/wiki/User:Stannered" title="User:Stannered">User:Stannered</a> |Permission=NRR original |other_versions=<a href="/wiki/File:FactoryMethod.png" title="File:FactoryMethod.png">en:Image:FactoryMethod.png</a> }}  [[Catego)</span></td></tr>
+</table>
+
+</div>
+<h2 id="filelinks">File links</h2>
+<div id='mw-imagepage-section-linkstoimage'>
+<div class="linkstoimage" id="linkstoimage">The following pages on the English Wikipedia link to this file (pages on other projects are not listed):</div>
+<ul class='mw-imagepage-linkstoimage'>
+<li><a href="/wiki/Factory_method_pattern" title="Factory method pattern">Factory method pattern</a></li>
+</ul>
+</div>
+<div class="printfooter">
+Retrieved from "<a href="http://en.wikipedia.org/wiki/File:FactoryMethod.svg">http://en.wikipedia.org/wiki/File:FactoryMethod.svg</a>"</div>
+			<div id='catlinks' class='catlinks catlinks-allhidden'></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul lang="en" xml:lang="en">
+	
+				 <li id="ca-nstab-image" class="selected"><a href="/wiki/File:FactoryMethod.svg" title="View the file page [c]" accesskey="c">File</a></li>
+				 <li id="ca-talk" class="new"><a href="/w/index.php?title=File_talk:FactoryMethod.svg&amp;action=edit&amp;redlink=1" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="/w/index.php?title=File:FactoryMethod.svg&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li>			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul lang="en" xml:lang="en">
+				<li id="pt-optin-try"><a href="http://en.wikipedia.org/w/index.php?title=Special:UsabilityInitiativeOptIn&amp;from=File%3AFactoryMethod.svg" title="Try out new features" class="no-text-transform">Try Beta</a></li>
+				<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=File:FactoryMethod.svg" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(http://upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page" title="Visit the main page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5 lang="en" xml:lang="en">Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+				<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+				<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content — the best of Wikipedia">Featured content</a></li>
+				<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+				<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="p-search" class="portlet">
+		<h5 lang="en" xml:lang="en"><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/w/index.php" id="searchform">
+				<input type='hidden' name="title" value="Special:Search"/>
+				<input id="searchInput" title="Search Wikipedia" accesskey="f" value="" name="search" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if one exists" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search Wikipedia for this text" />
+			</form>
+		</div>
+	</div>
+	<div class='generated-sidebar portlet' id='p-interaction'>
+		<h5 lang="en" xml:lang="en">Interaction</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+				<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+				<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+				<li id="n-sitesupport"><a href="http://wikimediafoundation.org/wiki/Support_Wikipedia/en" title="Support us">Donate to Wikipedia</a></li>
+				<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5 lang="en" xml:lang="en">Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/File:FactoryMethod.svg" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+				<li id="t-print"><a href="/w/index.php?title=File:FactoryMethod.svg&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/skins-1.5/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="http://wikimediafoundation.org/"><img src="/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a></div>
+			<ul id="f-list">
+					<li id="privacy"><a href="http://wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+					<li id="disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+
+<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
+<!-- Served by srv89 in 0.375 secs. --></body></html>
